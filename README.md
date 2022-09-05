@@ -11,4 +11,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mxnxv-err&show_icons=true&theme=tokyonight&locale=en&&langs_count=6" alt="mxnxv-err" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mxnxv-err&show_icons=true&theme=tokyonight&locale=en" alt="mxnxv-err" /></p>
+
+
+
+<p><a href="https://github.com/MXNXV-ERR/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mxnxv-err&show_icons=true&theme=tokyonight&locale=en&hide_border=true" alt="Manav R's github stats" /></a> </p>

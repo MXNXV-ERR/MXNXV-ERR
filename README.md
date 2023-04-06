@@ -15,3 +15,6 @@
 
 
 <p><a href="https://github.com/MXNXV-ERR/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mxnxv-err&show_icons=true&theme=tokyonight&locale=en&hide_border=true" alt="Manav R's github stats" /></a> </p>
+
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/user7011rj?theme=dark&font=Comic%20Neue&ext=heatmap)

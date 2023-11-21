@@ -1,10 +1,10 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm MANAV V R</h1>
-<h3 align="center">Information Science Student in the sixth semester at Ramaiah Institute of Technology who is proficient in many programming languages with exceptional debugging skills. An Energetic programmer skilled in Flutter development. An innovative and enthusiastic fast learner with a deep passion for technology.</h3>
+<h3 align="center">Information Science Student in the seventh semester at Ramaiah Institute of Technology who is proficient in many programming languages with exceptional debugging skills. An Energetic programmer skilled in Flutter development. An innovative and enthusiastic fast learner with a deep passion for technology.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mxnxv-err&label=Profile%20views&color=0e75b6&style=flat" alt="mxnxv-err" /> </p>
-<a href="https://www.youtube.com/channel/UCJl2ZYOrQ2P8O3xZ-Apj2vw">
+<!-- <a href="https://www.youtube.com/channel/UCJl2ZYOrQ2P8O3xZ-Apj2vw">
  <img alt="youtube subscribers" src="https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=UCJl2ZYOrQ2P8O3xZ-Apj2vw&key=AIzaSyDLVrbm-bDl2Seja_JebP-lnBKuv3LwU8I"/>
-</a>
+</a> -->
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
